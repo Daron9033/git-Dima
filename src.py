@@ -1,2 +1,2 @@
 print "Dima krasava"
-print "LFC"
+print "YNWA"
