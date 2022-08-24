@@ -1,2 +1,1 @@
-Print "Hello"
-Print "Hello"
+Print "Dima"
