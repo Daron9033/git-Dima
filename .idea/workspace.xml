@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="232b2302-e778-44a1-a23a-b95909ca7aeb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfsadgfdsgdg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.py" beforeDir="false" afterPath="$PROJECT_DIR$/src.py" afterDir="false" />
-    </list>
+    <list default="true" id="232b2302-e778-44a1-a23a-b95909ca7aeb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +30,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1661242898" />
+                    <option name="lastUsedInstant" value="1661335805" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="readme" />
-                    <option name="lastUsedInstant" value="1661242792" />
+                    <option name="branchName" value="test" />
+                    <option name="lastUsedInstant" value="1661335453" />
                   </RecentBranch>
                 </list>
               </option>
